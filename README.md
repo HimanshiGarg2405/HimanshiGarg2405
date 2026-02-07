@@ -35,14 +35,6 @@
 
 ---
 
-### 📊 GitHub Language Stats
-
-<p align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshiGarg2405&layout=compact&theme=tokyonight&cache_seconds=86400)
-</p>
-
----
-
 ### 📬 Let's Connect
 
 - 📫 [himanshi.garg2405@gmail.com](mailto:himanshi.garg2405@gmail.com)
