@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Himanshi</h1>
+<h1 align="center">Hi there, I'm Himanshi</h1>
 <p align="center">Computer Science Undergraduate | Software & ML Enthusiast</p>
 
 ---
@@ -13,7 +13,7 @@
 
 ### 🤔 Fun Fact
 
-🤖 I talk to AI more than I talk to people some days (and I’m okay with that).
+I talk to AI more than I talk to people some days (and I’m okay with that).
 
 ---
 
