@@ -37,6 +37,6 @@ I talk to AI more than I talk to people some days (and I’m okay with that).
 
 ### 📬 Let's Connect
 
-- 📫 [himanshi.garg2405@gmail.com](mailto:himanshi.garg2405@gmail.com)
+- [himanshi.garg2405@gmail.com](mailto:himanshi.garg2405@gmail.com)
 
 ---
