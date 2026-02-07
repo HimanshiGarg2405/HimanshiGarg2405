@@ -1,25 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Himanshi</h1>
-<p align="center">🚀 CS Undergrad | 💻 Developer | 🌱 Lifelong Learner</p>
+<p align="center">Computer Science Undergraduate | Software & ML Enthusiast</p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 I'm a Computer Science undergrad passionate about coding and building things that matter.
-- 🛠️ I love working on creative projects — from AI-powered OCR tools to interactive websites.
-- 🌐 Comfortable with Python, JavaScript, HTML/CSS, and more.
-- 🎯 Currently exploring machine learning and full-stack development.
-- ✨ I enjoy turning ideas into real, fun, and functional experiences.
-
----
-
-### 💡 What I Value
-
-- 🧠 **Curiosity:** Always eager to learn and explore new technologies.
-- 🤝 **Collaboration:** I believe great things happen when we build together.
-- ✨ **Creativity:** Whether it’s code or design, I love bringing imagination to life.
-- ⚡ **Simplicity:** Clean, readable, and purposeful code is my goal.
-- ❤️ **Kindness:** Being respectful and helpful is always part of the plan.
+### 👨‍💻 About  
+• CS undergrad with hands-on experience in Python, C++, and web development  
+• Built ML-based projects including OCR systems and data-driven applications  
+• Interested in software engineering, data, and applied machine learning  
+• Focused on writing clean, efficient, and scalable code  
 
 ---
 
