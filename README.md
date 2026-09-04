@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Himanshi 👋</h1>
-<p align="center">Software Engineer Intern @ Kabadi Techno | Ex-Siemens EDA | GATE'26 (95.1%ile) | Incoming M.Tech</p>
+<p align="center">Software Engineer Intern @ Kabadi Techno | Ex-Siemens EDA | M.Tech AI@NSUT | GATE'26 (95.1%ile)</p>
 
 ---
 
 ### 👩‍💻 About  
 - 🔭 Currently building an AI-powered Consumer Grievance Resolution Platform — OCR + RAG doing the heavy lifting so people don't have to fight companies through 15 emails  
 - 🛠️ Previously debugged low-power chip designs at Siemens EDA — turns out silicon needs sleep too  
-- 🌱 Heading into my M.Tech soon, still figuring out the perfect coffee-to-code ratio  
+- 🌱 Pursuing my M.Tech at NSUT, still figuring out the perfect coffee-to-code ratio  
 - 💡 Interested in AI/ML systems, backend engineering, and building things that solve real problems instead of just looking good in a demo  
 - 📊 9.69 CGPA, because I trust proof more than adjectives  
 
